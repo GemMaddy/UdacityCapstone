@@ -18,27 +18,27 @@ Files:
 ├── Makefile
 ├── README.md
 ├── run_docker.sh
-├── Screenshots
-│   ├── AfterUpdate-DNS.png
-│   ├── AskingUserToRollUpdate.png
-│   ├── AWS CloudFormation Stack-2.png
-│   ├── AWS CloudFormation Stack.png
-│   ├── AWS EKS Kubernetes Cluster.png
-│   ├── Builiding Image.png
-│   ├── Deploying App to K8s.png
-│   ├── DockerHub-Images&Tags.png
-│   ├── EC2 Machine.png
-│   ├── githublink.txt
-│   ├── Jenkins HomePage.png
-│   ├── JenkinsPipeline.png
-│   ├── Load Balancer DNS.png
-│   ├── Redundant2.png
-│   ├── Redundant.png
-│   ├── RollingUpdateCLI.png
-│   ├── Sample Docker Image.png
-│   ├── Website-AfterUpdate.png
-│   └── Website-BeforeUpdate.png
-└── tree.txt
+└── Screenshots
+    ├── AfterUpdate-DNS.png
+    ├── AskingUserToRollUpdate.png
+    ├── AWS CloudFormation Stack-2.png
+    ├── AWS CloudFormation Stack.png
+    ├── AWS EKS Kubernetes Cluster.png
+    ├── Builiding Image.png
+    ├── Deploying App to K8s.png
+    ├── DockerHub-Images&Tags.png
+    ├── EC2 Machine.png
+    ├── githublink.txt
+    ├── Jenkins HomePage.png
+    ├── JenkinsPipeline.png
+    ├── Load Balancer DNS.png
+    ├── Redundant2.png
+    ├── Redundant.png
+    ├── RollingUpdateCLI.png
+    ├── Sample Docker Image.png
+    ├── Website-AfterUpdate.png
+    └── Website-BeforeUpdate.png
 
-2 directories, 31 files
+2 directories, 30 files
+
 ```
